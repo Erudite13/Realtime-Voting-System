@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://votesbucketmajorproject/votes_data.csv"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "true"
+    }
+  }
+  
