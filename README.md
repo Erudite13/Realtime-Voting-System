@@ -49,11 +49,14 @@ A fully serverless, real-time voting system built using **AWS Kinesis**, **Dynam
 2. **Set up AWS resources:**
 
    Kinesis Data Stream (VoteStream)
+   
    DynamoDB Table (Votes)
+   
    S3 bucket (votesbucket)
+   
    IAM roles and Lambda functions
 
-3. **Run the frontend:**
+4. **Run the frontend:**
 
 Copy
 Edit
