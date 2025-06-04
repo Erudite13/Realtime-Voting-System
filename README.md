@@ -59,13 +59,17 @@ A fully serverless, real-time voting system built using **AWS Kinesis**, **Dynam
 4. **Run the frontend:**
 
 Copy
+
 Edit
+
 cd voting-app
 streamlit run app.py
 
 4. **Create ETL pipeline:**
 Glue Crawler to catalog S3 data
+
 Athena for SQL queries
+
 Connect QuickSight to Athena for visualization
 
 📊 Sample Dashboard
@@ -74,13 +78,20 @@ Connect QuickSight to Athena for visualization
 
 
 📦 Future Enhancements
+
 Add user authentication and admin dashboard
+
 Generate automatic PDF election summaries
+
 Visualize voter distribution on interactive maps
+
 Integrate location-based analytics and alerts
 
+
 👨‍💻 Author
+
 Rudra Srivastava
+
 https://linkedin.com/in/rudra-srivastava
 
 
