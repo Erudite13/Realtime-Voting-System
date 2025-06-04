@@ -53,14 +53,14 @@ A fully serverless, real-time voting system built using **AWS Kinesis**, **Dynam
    S3 bucket (votesbucket)
    IAM roles and Lambda functions
 
-Run the frontend:
+3. **Run the frontend:**
 
 Copy
 Edit
 cd voting-app
 streamlit run app.py
 
-Create ETL pipeline:
+4. **Create ETL pipeline:**
 Glue Crawler to catalog S3 data
 Athena for SQL queries
 Connect QuickSight to Athena for visualization
@@ -78,7 +78,6 @@ Integrate location-based analytics and alerts
 
 👨‍💻 Author
 Rudra Srivastava
-href{https://linkedin.com/in/rudra-srivastava, Linkedin}| GitHub
-
+https://linkedin.com/in/rudra-srivastava
 
 
